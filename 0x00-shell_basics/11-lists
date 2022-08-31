@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lab pwd - /boot
+ls -lab ./ ../ /boot
