@@ -1,2 +1,2 @@
 #!/bin/bash
-chown user:group  vincent:staff -h _hello
+chown vincent _hello -h, chgrp staff _hello -h
