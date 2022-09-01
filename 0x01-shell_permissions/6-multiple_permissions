@@ -1,0 +1,2 @@
+#!/bin/ssh
+chmod ug+rwx hello
