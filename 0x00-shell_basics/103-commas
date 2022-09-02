@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --format=comma -d -b ./* ../
+ls --format=comma -d -b ./* ../ ./
